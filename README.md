@@ -1,16 +1,25 @@
-## Hi there 👋
+ 👋 Привет! Меня зовут Адильжан
 
-<!--
-**Adikrichy/Adikrichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Java Backend Developer, специализируюсь на создании REST-сервисов с использованием Spring Boot, PostgreSQL, Redis и Docker.
 
-Here are some ideas to get you started:
+- 🛠 Уверенно работаю с: **Spring Boot**, **Spring Security**, **JWT**, **PostgreSQL**, **Redis**, **Docker**, **Git**
+- 🤖 Интегрировал **LLM (LLaMA 3)** в backend туристического сервиса
+- ☁️ Сейчас разрабатываю **Aldous Cloud** — аналог AWS S3
+- 📚 Учусь в IITU, 4 курс, программная инженерия
+- 📍 Город: Алматы, Казахстан
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Проекты
+
+### 🧳 Tour Agency Backend  
+REST API для управления турами, бронированиями, пользователями и отзывами.  
+Стек: Java 17, Spring Boot, PostgreSQL, Redis, JWT  
+🔗 [Репозиторий](https://github.com/SergazinMadi/tour-agency-back) (ветка `newfeature`)
+
+### ☁️ Aldous Cloud (в разработке)  
+Система хранения данных, аналог AWS S3: авторизация, загрузка объектов, SDK, публичный API.  
+🔗 [GitHub](https://github.com/Adikrichy/aldous-cloud.git)
+
+## 📫 Контакты
+
+- Email: adil.erzhanoc.70@gmail.com  
+- Telegram: [@Zztey](https://t.me/Zztey) 
